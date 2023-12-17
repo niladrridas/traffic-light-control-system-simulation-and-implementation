@@ -21,3 +21,21 @@ This VHDL project implements a sophisticated Traffic Light Controller system usi
 ```bash
 git clone https://github.com/your-username/Traffic-Light-Controller-VHDL.git
 
+### 2. Open in Xilinx Vivado
+Import the project into Xilinx Vivado.
+Customize the VHDL code or parameters based on your specific needs.
+
+### 3. Simulate and Program FPGA
+Utilize Vivado's simulation tools to verify functionality.
+Program the FPGA with the synthesized design.
+
+### 4. Integration
+Integrate the Traffic Light Controller into your larger FPGA-based system or use it as a standalone module.
+Contributions
+Contributions and improvements to the project are welcome. If you identify issues or have enhancements to suggest, please feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
+### Acknowledgments
+Xilinx Vivado
