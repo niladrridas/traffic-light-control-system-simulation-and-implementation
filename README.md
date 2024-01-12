@@ -17,4 +17,4 @@ This VHDL project is designed to simulate and control a sophisticated traffic li
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/niladridas/traffic-light-control.git
-   cd traffic-light-control
+   cd traffic-light-control-system-simulation-and-implementation
