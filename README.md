@@ -19,7 +19,7 @@ This VHDL project implements a sophisticated Traffic Light Controller system usi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Traffic-Light-Controller-VHDL.git
+git clone https://github.com/niladrigithub/Traffic-Light-Controller-VHDL.git
 
 ### 2. Open in Xilinx Vivado
 Import the project into Xilinx Vivado.
